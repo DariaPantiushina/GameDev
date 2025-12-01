@@ -1,4 +1,4 @@
-# A/B test case: difficulty curve optimization in a Match-3 game
+# A/B-test difficulty curve impact in mobile Match-3 game
 
 In a Match-3 game, each level has its own difficulty. The difficulty curve describes how the level difficulty changes throughout the sequence of levels. The game development team decided to test some changes to this curve and evaluate the following **hypotheses**:
 
@@ -6,4 +6,6 @@ In a Match-3 game, each level has its own difficulty. The difficulty curve descr
 
 ● Gradually increasing the difficulty of later levels will help compensate for the monetization drop.
 
-The team ran an A/B test on new players (the date a player entered the test matches the date they installed the game). The duration of the test was 60 days.
+The team ran an **A/B test on new players** (the date a player entered the test matches the date they installed the game). 
+
+The **duration of the test** was **60 days**.
